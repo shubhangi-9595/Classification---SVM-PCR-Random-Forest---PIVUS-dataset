@@ -26,4 +26,4 @@ The methods used include:
 * **Principal Component Regression (PCR)**
 * Others (including PCLR and SVM RBF).
 
-> **A detailed description of the methods, the data pre-processing steps** (log transformation, Z-scale, kNN imputation), **the hyperparameter optimization process** (5-fold cross-validation), **and the results can be found in the `PIVUS_report_.pdf`**.
+A detailed description of the methods, the data pre-processing steps** (log transformation, Z-scale, kNN imputation), **the hyperparameter optimization process** (5-fold cross-validation), **and the results can be found in the `PIVUS_report_.pdf`**.
